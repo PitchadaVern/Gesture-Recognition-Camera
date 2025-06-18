@@ -23,5 +23,8 @@ This project uses:
 2. ✌️ → zoom in
 3. ☝️ → zoom out
 4. 👍 → change to greyscale
-5. 👎 → change back to RGB 
+5. 👎 → change back to RGB
+
+# for more information and demonstration
+https://www.canva.com/design/DAF2LaebTo8/JdE-FAakOWK9Ln8UWRJUyA/view?utm_content=DAF2LaebTo8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc5b7bf1da1
 
