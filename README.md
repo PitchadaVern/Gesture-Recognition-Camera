@@ -1,6 +1,6 @@
 # Gesture-Recognition-Camera
 Gesture-Controlled Camera using MediaPipe and OpenCV
-This is a personal project using MediaPipe and OpenCV to control a camera using hand gestures. The goal is to take a photo from a distance, without touching the device—using only your hand!
+This is a personal project using MediaPipe and OpenCV to control a camera using hand gestures. The goal is to take a photo from a distance, by using only hand gesture
 
 # Overview
 This project uses:
